@@ -1,0 +1,17 @@
+body {
+    background-color:azure;
+    font-family: "Playwrite GB S Guides", cursive;
+    
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    border-radius: 400px;
+    border-style: solid;
+    border-right: thick;
+    border-bottom: thick;
+}
